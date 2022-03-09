@@ -64,5 +64,16 @@ h1 {
   color: rgba(#ffc600, 1);
   font-weight: 500;
 }
+footer{
+    background-color: darkslategray;
+}
+footer ul{
+    display: flex;
+    list-style: none;
+    flex-flow: column;
+    font-weight: bold;
+    color: bisque;
+
+}
 
 
